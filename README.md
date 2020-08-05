@@ -38,11 +38,11 @@
 
 ## 📂 Latest Repositories
 <!-- REPO:START -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elfilosof87&repo=GrievanceSystem2020)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elfilosof87&repo=GrievanceSystem2020)](https://github.com/elfilosof87/GrievanceSystem2020)
 <br />
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elfilosof87&repo=Restaurant-Database-Management-System)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elfilosof87&repo=Restaurant-Database-Management-System)](https://github.com/elfilosof87/Restaurant-Database-Management-System)
 <br />
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elfilosof87&repo=Covid19-Track)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elfilosof87&repo=Covid19-Track)](https://github.com/elfilosof87/Covid19-Track)
 
 <!-- REPO:END -->
 
