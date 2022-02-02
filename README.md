@@ -2,8 +2,8 @@
 
 ## I'm an aspiriring Software Engineer!
 - 🔭 I’m currently working on a project
-- 👯 I’m looking to expand my area of interest to ML and AI
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to expand my area of interests
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
